@@ -1,7 +1,7 @@
 -- Variables
 local banids = {}
 local banids.numbered = true
-/*
+--[[
 							HOW TO SET UP YOUR OWN BAN ID'S
 
 									Under "banidInitiatives", add a new line under the fifth banid.
@@ -11,8 +11,7 @@ local banids.numbered = true
 									elseif banids.sixth = A6<or whatever thing it is for the local under the banids.numbered = true.>
 										local A6 = "<punish reason>"
 									end
-*/
--- functions
+]]--
 function ULX.Start()
 
 	banidInitiatives()
