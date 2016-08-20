@@ -1,0 +1,10 @@
+"AddonInfo"
+{
+        "name"              "BanID API"
+        "version"           "1.0"
+        "up_date"           "08/20/2016"
+        "author_name"       "Chaos"
+        "author_email"      ""
+        "info"              "Allows you to easily change a reason into a number and a letter."
+        "override"          "0"
+}
